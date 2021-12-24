@@ -1,0 +1,83 @@
+[
+  {
+    "id": "61435bjhg54vien45",
+    "name": "Jamal Nazrul Islam",
+    "country": "BANGLADESH",
+    "born": "February 24,1939",
+    "knownFor": " The Ultimate Fate of the Universe",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlpALyS7-khO8pgb6d7exqXqVOdah8Wxvqrw&usqp=CAU",
+    "death": "March 16, 2013"
+  },
+  {
+    "id": "65yfy8fhgte78h",
+    "name": " Albert Einstein ",
+    "country": "German ",
+    "born": "March 14,1879 ",
+    "knownFor": "Theory of Relevity ",
+    "img": "https://assets.weforum.org/article/image/large_-ytU8aFc7NXOVyhZ2HjKvs2CDIRFPYxBqgtKIJd9V-s.png",
+    "death": "15 August 1975"
+  },
+  {
+    "id": "7889fhfh5tfhjg85",
+    "name": "Galileo Galilei",
+    "country": "Italy",
+    "born": "February 15 ,1564 ",
+    "knownFor": " F = MA ",
+    "img": "https://i.ytimg.com/vi/Rejbk1oJ2xg/maxresdefault.jpg",
+    "death": "March 31,1643"
+  },
+  {
+    "id": "4654jghfh45",
+    "name": "SIR Isaac Newton",
+    "country": " Uk",
+    "born": "January 8 , 1642 ",
+    "knownFor": "Father of Modern Science ",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg",
+    "death": "March 31,1643"
+  },
+  {
+    "id": "898ghjh7h444",
+    "name": "Charles Darwin",
+    "country ": "uk",
+    "born": "April 19 , 1643 ",
+    "knownFor": " Theory of Natural Selection",
+    "img": "https://www.biography.com/.image/t_share/MTc5OTUwMDE4NzM0NTk3NDY0/gettyimages-79035252.jpg",
+    "death ": "April 19 , 1643"
+  },
+  {
+    "id": "hgh6sdsda6yghk44",
+    "name": "Nikola Tesla",
+    "country": "Italy",
+    "born": "January 7 , 1963 ",
+    "knownFor": "Inventing the first AC motor",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+    "death": "January 7 , 1643"
+  },
+  {
+    "id": "hgfg657uf788gf",
+    "name": "Marie Curie",
+    "country": "Poland",
+    "born": "November 7, 1867 ",
+    "knownFor": "Discover of Radium & Polonium",
+    "img": "https://s26162.pcdn.co/wp-content/uploads/2021/02/Marie-cutie.jpg",
+    "death": "July 4 , 1934"
+  },
+  {
+    "id": "49gtr48saxg96",
+    "name": "Thomas Edison",
+    "country": "USA",
+    "born": "February 11,1847",
+    "knownFor": "Theory of Natural Selection",
+    "img": "https://images.renewableenergyworld.com/wp-content/uploads/2016/10/thomas_edison.jpg",
+    "death ": "October 18, 1931"
+  },
+  {
+    "id": "hgf2yf774qaff120",
+    "name": "Leonardo Da Vinci",
+    "country": "Italy",
+    "born": "April 15,1452",
+    "knownFor": "Monalisa Art Work",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Qn5Reoh_v6qvrftrqZuHD0_rIw36gZhscg&usqp=CAU",
+    "death ": "April 15, 1519"
+  }
+]
